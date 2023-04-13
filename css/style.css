@@ -1,0 +1,22 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.body {
+    color: #222;
+    background: #eee;
+    line-height: 1.5;
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+
+.darkBackground {
+    background-color: #a4a4a4;
+    color: #222222;
+}

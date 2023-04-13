@@ -1,0 +1,51 @@
+.section__header {
+    font-size: 1.7em;
+}
+
+.section__subHeader {
+    font-size: 1.5em;
+}
+
+.table {
+    border-collapse: collapse;
+    width: auto;
+    overflow-x: auto;
+}
+
+.table__cell {
+    border: 1px solid #222;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table__caption {
+    font-size: 1.7em;
+    caption-side: top;
+    text-align: left;
+    margin-bottom: 20px;
+    font-weight: bold;
+
+}
+
+.table__header {
+    background-color: rgb(0, 77, 129);
+    color: white;
+    font-weight: normal;
+}
+
+.table__row:nth-child(odd) {
+    background-color: #cad9fb;
+}
+
+.table__row:hover {
+    background-color: #5cb6e4;
+}
+
+.section__image {
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+    padding: 10px;
+    margin-bottom: 20px;
+}

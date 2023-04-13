@@ -1,0 +1,27 @@
+.header {
+    background-color: rgb(0, 79, 127);
+}
+
+.navigation__list {
+    list-style: none;
+    align-items: center;
+    max-width: 100%;
+    margin: 0;
+}
+
+.navigation__item {
+    padding: 10px 20px;
+}
+
+.navigation__link {
+    padding: 5px 0;
+    text-decoration: none;
+    color: white;
+}
+
+.navigation__link:hover {
+    color: #222;
+    background-color: rgb(69, 122, 219);
+    border-bottom: 2px solid red;
+    outline: none;
+}
