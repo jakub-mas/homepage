@@ -7,3 +7,4 @@ button.addEventListener("click", () => {
 
     button__name.innerText = body.classList.contains("darkBackground") ? "Jasny motyw" : "Ciemny motyw";
 });
+console.log("ten kod jest już w repozytorium git")
