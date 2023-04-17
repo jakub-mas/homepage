@@ -16,7 +16,10 @@ My first project as a web developer learning to code. This website is a simple r
 - **HTML**
 - **CSS**
 - **JS**
+
+<p>
 Website is using normalized, also classes of elements are named according to BEM convention.
+</p>
 
 ## Creator
 
