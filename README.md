@@ -18,7 +18,7 @@ My first project as a web developer learning to code. This website is a simple r
 - **JS**
 
 <p>
-Website is using normalized, also classes of elements are named according to BEM convention.
+Website is using Normalized. CSS, also classes are named according to BEM convention.
 </p>
 
 ## Creator
