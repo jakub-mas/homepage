@@ -1,11 +1,11 @@
 {
     const toggleBackground = () => {
         const body = document.querySelector(".js-body");
-        const button__name = document.querySelector(".js-button__name");
+        const button__name = document.querySelector(".js-buttonNameElement");
 
         body.classList.toggle("darkBackground");
 
-        button__name.innerText = body.classList.contains("darkBackground") ? "Jasny motyw" : "Ciemny motyw";
+        button__name.innerText = body.classList.contains("darkBackground") ? "Jasny" : "Ciemny";
     };
 
     const init = () => {
